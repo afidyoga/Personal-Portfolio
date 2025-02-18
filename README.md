@@ -14,4 +14,4 @@ Upvesh is a  fully responsive personal, portfolio, resume template that consists
 
 ## Demo
 
-- [Upvesh](https://danielspf.github.io/personal-website/)
+- [Upvesh](https://afidyoga.github.io/Personal-Portfolio/)
