@@ -15,26 +15,3 @@ Upvesh is a  fully responsive personal, portfolio, resume template that consists
 ## Demo
 
 - [Upvesh](https://danielspf.github.io/personal-website/)
-
-## Tutorial
-
-- [The WebShala](https://www.youtube.com/watch?v=ONqgNVWJ-Dw)
-
-if you watch this full tutorial you will learn lot of things.
-
-What has been learned :
-- Responsive Layout
-- 5 Color Skins
-- Light/Dark
-- Smoooth transitions
-- Live Style Switcher
-- Clean Code
-- W3C Validated
-- HTML5 & CSS3 & JAVASCRIPT
-- Cross Browser Compatible
-- 100% Customizable, all colors can be customized
-- Project Image Format
-- Font Awesome Icons
-- Well-commented code
-- Google Fonts
-
